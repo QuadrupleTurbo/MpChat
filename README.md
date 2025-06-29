@@ -4,7 +4,7 @@
 **A custom version of the GTA:O chat scaleform!**
 
 # What's "Custom" about it?
-Well, compared to the regular GTA:O chat scaleform, this allows you to pretty much have full control over the chat. This resource will run as a very standard chat resource from the get go, however if you're wanting roles and stuff, you're going to have to implement your own logic into it, providing you know C#. Feel free to contribute :slight_smile:
+Well, compared to the regular GTA:O chat scaleform, this allows you to pretty much have full control over the chat. This resource will run as a very standard chat resource from the get go, however if you're wanting roles and stuff, you're going to have to implement your own logic into it, providing you know C#. Feel free to contribute 😄
 
 # Features
 - Input character limit
