@@ -35,9 +35,9 @@ https://github.com/user-attachments/assets/7c657964-80d4-42c6-952b-da2b7857c0b6
 
 # Downloads
 You need these two, one is the script, and one is the scaleform:
-> [Script Github](https://github.com/QuadrupleTurbo/scaleformeter/releases)
+> [Script Github](https://github.com/QuadrupleTurbo/MpChat/releases)
 > 
-> [Scaleform Github](https://github.com/QuadrupleTurbo/scaleformeter/releases)
+> [Scaleform Github](https://github.com/QuadrupleTurbo/multiplayer_chat/releases)
 
 # Support
 [Discord](https://discord.gg/KJVD73D3Pq)
