@@ -108,8 +108,9 @@ namespace MpChat
             Main.Instance.AddEventHandler("mpchat:addMessage:Client", AddMessage);
 
             // Add exports
-            Main.Instance.ExportList.Add("setInputPositionOffset", SetInputPositionOffset);
-            Main.Instance.ExportList.Add("setFeedPositionOffset", SetFeedPositionOffset);
+            Main.Instance.ExportList.Add("AddMessage", AddMessage);
+            Main.Instance.ExportList.Add("SetInputPositionOffset", SetInputPositionOffset);
+            Main.Instance.ExportList.Add("SetFeedPositionOffset", SetFeedPositionOffset);
 
             // Initialize scaleform
             ScaleformInit();
