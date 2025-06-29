@@ -41,3 +41,7 @@ You need these two, one is the script, and one is the scaleform:
 
 # Support
 [Discord](https://discord.gg/KJVD73D3Pq)
+
+# Credits
+- manups4e
+    - For supplying a nice API for the chat script & also for the vast scaleform knowledge :+1: 
